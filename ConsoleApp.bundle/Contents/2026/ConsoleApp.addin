@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Application">
+		<Name>ConsoleApp</Name>
+		<Assembly>ConsoleApp\ConsoleApp.1.0.0.dll</Assembly>
+        <AddInId>180221bc-15cc-440f-89cd-01fcb6094a00</AddInId>
+		<FullClassName>ConsoleApp.App</FullClassName>
+        <VendorId>Cazorlas</VendorId>
+        <VendorDescription>https://www.youtube.com/@paper.engineer</VendorDescription>
+        <VendorEmail>trinhvutuanhung@gmail.com</VendorEmail>
+    </AddIn>
+</RevitAddIns>
