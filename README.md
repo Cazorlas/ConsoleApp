@@ -1,6 +1,7 @@
 # ConsoleApp for Revit
 
 A simple but powerful developer console for intercepting `Console.WriteLine()` output within the Autodesk Revit environment.
+
 <img width="1920" height="1032" alt="Console" src="https://github.com/user-attachments/assets/6e2ea9ff-6f96-4081-808b-95c8b0700101" />
 
 ---
