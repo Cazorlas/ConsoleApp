@@ -18,7 +18,7 @@ This add-in provides a dockable WPF pane inside Revit. It automatically captures
 
 ## 💾 Installation
 
-1.  Go to the [Releases](/releases) page.
+1.  Go to the [Releases](https://github.com/Cazorlas/ConsoleApp/releases/tag/v1.0.0) page.
 2.  Download the latest `ConsoleApp.1.0.0.exe` installer.
 3.  Run the installer (e.g., `ConsoleApp.1.0.0.exe`).
 4.  Follow the on-screen instructions. The installer will automatically find the correct folder.
