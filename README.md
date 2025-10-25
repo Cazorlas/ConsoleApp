@@ -18,12 +18,18 @@ This add-in provides a dockable WPF pane inside Revit. It automatically captures
 
 ## 💾 Installation
 
-1.  Go to the [Releases](https://github.com/your-username/your-repo/releases) page.
-2.  Download the latest `ConsoleApp.bundle.zip` file.
-3.  Unzip the file.
-4.  Copy the entire `ConsoleApp.bundle` folder into your Revit Add-ins folder:
-    `%APPDATA%\Autodesk\ApplicationPlugins`
+1.  Go to the [Releases](/releases) page.
+2.  Download the latest `ConsoleApp.1.0.0.exe` installer.
+3.  Run the installer (e.g., `ConsoleApp.1.0.0.exe`).
+4.  Follow the on-screen instructions. The installer will automatically find the correct folder.
 5.  Start Revit.
+
+## ⛔ Uninstallation
+
+1.  Close all instances of Revit.
+2.  Go to **Add or remove programs** in Windows Settings.
+3.  Find **ConsoleApp** in the app list.
+4.  Click "Uninstall" and follow the prompts. The uninstaller will remove all files and folders cleanly.
 
 ## 🚀 How to Use
 
@@ -40,5 +46,4 @@ This project is configured to multi-target several Revit versions.
 2.  Open `ConsoleApp.sln` in Visual Studio.
 3.  Ensure your Revit API DLLs (`RevitAPI.dll`, `RevitAPIUI.dll`) are correctly referenced.
 4.  Select your desired build configuration (e.g., `RL2025` for Release Revit 2025).
-5.  Build the project. The Post-Build event will automatically copy the necessary files to your `%APPDATA%\Autodesk\ApplicationPlugins` folder.
-
+5.  Build the project. The Post-Build event will automatically copy the necessary files to your `%APPDATA%\Autodesk\ApplicationPlugins` folder for testing.
