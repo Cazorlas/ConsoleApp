@@ -2,7 +2,7 @@
 
 A simple but powerful developer console for intercepting `Console.WriteLine()` output within the Autodesk Revit environment.
 
-![image](https://i.imgur.com/your-image-link.png) 
+![image](https://photos.app.goo.gl/LYLqh55Eif6tc3GG9) 
 *(Note: You should take a GIF or PNG screenshot of the console in action and replace the link above.)*
 
 ---
