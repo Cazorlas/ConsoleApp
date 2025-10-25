@@ -1,9 +1,7 @@
 # ConsoleApp for Revit
 
 A simple but powerful developer console for intercepting `Console.WriteLine()` output within the Autodesk Revit environment.
-
-![image](https://photos.app.goo.gl/LYLqh55Eif6tc3GG9) 
-*(Note: You should take a GIF or PNG screenshot of the console in action and replace the link above.)*
+<img width="1920" height="1032" alt="Console" src="https://github.com/user-attachments/assets/6e2ea9ff-6f96-4081-808b-95c8b0700101" />
 
 ---
 
@@ -42,3 +40,4 @@ This project is configured to multi-target several Revit versions.
 3.  Ensure your Revit API DLLs (`RevitAPI.dll`, `RevitAPIUI.dll`) are correctly referenced.
 4.  Select your desired build configuration (e.g., `RL2025` for Release Revit 2025).
 5.  Build the project. The Post-Build event will automatically copy the necessary files to your `%APPDATA%\Autodesk\ApplicationPlugins` folder.
+
