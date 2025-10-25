@@ -43,5 +43,5 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, you can contact us:
 
-* **By email:** [Your Email Address]
-* **By visiting this page on our website:** [Link to your GitHub repo or website]
+* **By email:** trinhvutuanhung@gmai.com
+* **By visiting this page on our website:** https://github.com/Cazorlas/ConsoleApp/
